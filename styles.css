@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 html, body {
   height: 100%;
   width: 100%;
   margin: 0;
   padding: 0;
+  font-family: 'Manrope', sans-serif;
 }
 
 nav {
@@ -50,4 +52,23 @@ nav ul li {
   background-color: #e3e7f3;
   border: none;
   border-radius: 5px;
+  padding: 4px 17px;
+}
+
+.container{
+  padding: 0 5vw;
+  margin: auto;
+}
+
+.section1{
+  background: #f2f2f2;
+  height: 122vh;
+}
+
+.semibold{
+  font-weight: bolder;
+}
+
+.homeimg{
+  width: 90vw;
 }
