@@ -62,7 +62,6 @@ nav ul li {
 
 .section1{
   background: #f2f2f2;
-  height: 122vh;
 }
 
 .semibold{
@@ -71,4 +70,22 @@ nav ul li {
 
 .homeimg{
   width: 90vw;
+}
+
+.itemImg{
+  width: 10vw;
+  margin: 5px 10px;
+}
+
+.flex-wrap{
+  flex-wrap: wrap;
+}
+
+.flex-between{
+  justify-content: space-between;
+}
+
+footer{
+  text-align: center;
+  padding: 20px 10px;
 }
